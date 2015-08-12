@@ -1,0 +1,5 @@
+{
+    "require": {
+        "anahkiasen/underscore-php" : "dev-master"
+    }
+}

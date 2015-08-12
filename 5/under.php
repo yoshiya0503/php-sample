@@ -15,4 +15,8 @@ $map = array_map(function($elem) {
 }, [1,2,3,4,5]);
 var_dump($sum);
 var_dump($map);
+
+$f = [1,2,3,4,5];
+var_dump(in_array(10, $f));
+var_dump(in_array(2, $f));
 ?>
